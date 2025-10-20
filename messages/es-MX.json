@@ -1,0 +1,29 @@
+{
+  "HomePage": {
+    "meta": {
+      "title": "PetMatch AI - Ecosistema Global Completo para Mascotas",
+      "description": "El ecosistema completo de cuidado de mascotas: Encuentra servicios, reserva vuelos, obtén consejos nutricionales, conéctate con microinfluencers y más. Disponible en 20 idiomas en más de 50 países."
+    },
+    "hero": {
+      "title": "PetMatch AI",
+      "subtitle": "El Ecosistema Global Completo para el Cuidado de Mascotas",
+      "stats": "47 servicios • 120+ páginas SEO • 20 idiomas • 50+ países",
+      "cta1": "Ver Historias de Amor",
+      "cta2": "Encontrar Servicios"
+    }
+  },
+  "Common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "viewMore": "Ver más",
+    "viewLess": "Ver menos"
+  }
+}
