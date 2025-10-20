@@ -1,29 +1,5 @@
-{
-  "HomePage": {
-    "meta": {
-      "title": "PetMatch AI - Complete Global Pet Ecosystem",
-      "description": "The complete pet care ecosystem: Find services, book flights, get nutrition advice, connect with microinfluencers, and more. Available in 20 languages across 50+ countries."
-    },
-    "hero": {
-      "title": "PetMatch AI",
-      "subtitle": "The Complete Global Pet Care Ecosystem",
-      "stats": "47 services • 120+ SEO pages • 20 languages • 50+ countries",
-      "cta1": "View Love Stories",
-      "cta2": "Find Services"
-    }
-  },
-  "Common": {
-    "loading": "Loading...",
-    "error": "Error",
-    "success": "Success",
-    "save": "Save",
-    "cancel": "Cancel",
-    "delete": "Delete",
-    "edit": "Edit",
-    "search": "Search",
-    "filter": "Filter",
-    "sort": "Sort",
-    "viewMore": "View more",
-    "viewLess": "View less"
+﻿{
+  "General": {
+    "greeting": "Hello! This is a placeholder for the en-US language."
   }
 }
